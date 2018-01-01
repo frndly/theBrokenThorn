@@ -3,8 +3,16 @@
 * {
   margin: 0vh 0vw;
   padding: 0v 0vw;
+  background: rgb(252, 250, 245);
 }
 
-
+p {
+  background: rgb(184, 198, 175);
+  color: rgb(0, 0, 0);
+}
 
 /* This is the header and nav section */
+
+h1 {
+  color: rgb(184, 198, 175);
+}
