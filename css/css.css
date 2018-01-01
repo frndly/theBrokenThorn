@@ -35,6 +35,6 @@ hr {
   text-align: center;
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
-  height: 1vh;
-  margin: 0vh, 25vw;
+  height: 5px;
+  margin-left: 25vw;
 }
