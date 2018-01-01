@@ -9,13 +9,16 @@
 p {
   background: rgb(184, 198, 175);
   color: rgb(0, 0, 0);
+  width: 70vw;
+  margin: 0vh, 13vw;
+  padding: 2vh, 2vw;
 }
 
 h1 {
   color: rgb(184, 198, 175);
   border: 0;
   text-align: center; 
-  font-size: 10vh;
+  font-size: 10vw;
 }
 
 h2 {
@@ -31,5 +34,6 @@ hr {
   text-align: center;
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
-  height: 2vh;
+  height: 1vh;
+  margin: 0vh, 25vw;
 }
