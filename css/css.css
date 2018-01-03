@@ -42,13 +42,16 @@ hr {
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
   height: 5px;
+  margin-top: 10vh;
+  margin-right: 25vw;
+  margin-bottom: 10vh;
   margin-left: 25vw;
   border: 0px;
 }
 
 #heroImage {
   width: 100vw;
-  height: inherit;
+  height: 100%;
   padding-top: 5vh;
 }
 
