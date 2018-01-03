@@ -5,6 +5,26 @@
   padding: 0v 0vw;
   background: rgb(252, 250, 245);
   font-size: 12px;
+  font-family: serif;
+}
+
+h1 {
+  color: rgb(184, 198, 175);
+  text-align: center; 
+  font-size: 10vw;
+  font-family: 'Alegreya SC', serif;
+}
+
+h2 {
+  color: rgb(37, 61, 23);
+  font-size: 6vw;
+  font-family: 'Alegreya', serif;
+}
+
+h3 {
+  color: rgb(0, 0, 0);
+  font-size: 4vw;
+  font-family: 'Alegreya', serif;
 }
 
 p {
@@ -13,22 +33,7 @@ p {
   width: 70vw;
   margin-left: 13vw;
   padding: 5px;
-}
-
-h1 {
-  color: rgb(184, 198, 175);
-  text-align: center; 
-  font-size: 10vw;
-}
-
-h2 {
-  color: rgb(37, 61, 23);
-  font-size: 6vw;
-}
-
-h3 {
-  color: rgb(0, 0, 0);
-  font-size: 4vw;
+  font-family: 'Amiri', serif;
 }
 
 hr {
