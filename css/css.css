@@ -45,3 +45,13 @@ hr {
   margin-left: 25vw;
   border: 0px;
 }
+
+#heroImage {
+  width: 100%;
+  height: 40vh;
+}
+
+#r4iTemp {
+  width: 100%;
+  height: 30vh;
+}
