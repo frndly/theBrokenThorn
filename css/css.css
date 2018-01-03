@@ -13,6 +13,8 @@ h1 {
   text-align: center; 
   font-size: 10vw;
   font-family: 'Alegreya SC', serif;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 h2 {
@@ -42,9 +44,9 @@ hr {
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
   height: 5px;
-  margin-top: 2vh;
+  margin-top: 1vh;
   margin-right: 25vw;
-  margin-bottom: 3vh;
+  margin-bottom: 1vh;
   margin-left: 25vw;
   border: 0px;
 }
@@ -59,4 +61,19 @@ hr {
   width: 30vw;
   height: 100%;
   margin-left: 35vw;
+}
+
+/* This is the footer section */
+
+footer {
+    float: center;
+	left: 0px;
+	width: 100%;
+    height: 2vh;
+	color: rgb(184, 198, 175);
+	padding: 6px 0px;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    top: 96.8vh;
 }
