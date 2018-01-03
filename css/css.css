@@ -13,7 +13,7 @@ h1 {
   text-align: center; 
   font-size: 10vw;
   font-family: 'Alegreya SC', serif;
-  padding-bottom: -1vh;
+  padding-bottom: 0px;
   margin-bottom: 0px;
 }
 
@@ -44,7 +44,7 @@ hr {
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
   height: 5px;
-  margin-top: 1vh;
+  margin-top: -1vh;
   margin-right: 25vw;
   margin-bottom: 1vh;
   margin-left: 25vw;
@@ -71,9 +71,10 @@ footer {
 	width: 100%;
     height: 2vh;
 	color: rgb(184, 198, 175);
-	background-color: none;
+	background-color: rgb(252, 250, 245);
 	padding: 6px 0px;
     text-align: center;
     font-size: 15px;
     position: absolute;
+    top: 96vh;
 }
