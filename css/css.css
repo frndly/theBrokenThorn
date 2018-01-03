@@ -47,11 +47,13 @@ hr {
 }
 
 #heroImage {
-  width: 100%;
-  height: 40vh;
+  width: 100vw;
+  height: inherit;
+  padding-top: 5vh;
 }
 
 #r4iTemp {
-  width: 100%;
-  height: 30vh;
+  width: 30vw;
+  height: 100%;
+  margin-left: 45vw;
 }
