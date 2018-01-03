@@ -64,6 +64,10 @@ hr {
   margin-bottom: 10vh;
 }
 
+.menuItem {
+  width: 30vw;
+}
+
 /* This is the footer section */
 
 footer {
