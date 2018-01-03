@@ -81,3 +81,7 @@ footer {
     position: absolute;
     top: 80vh;
 }
+
+footer p {
+    background-color: rgb(252, 250, 245);
+}
