@@ -42,7 +42,7 @@ hr {
   color: rgb(37, 61, 23);
   background: rgb(37, 61, 23);
   height: 5px;
-  margin-top: 3vh;
+  margin-top: 2vh;
   margin-right: 25vw;
   margin-bottom: 3vh;
   margin-left: 25vw;
@@ -52,6 +52,7 @@ hr {
 #heroImage {
   width: 100vw;
   height: 100%;
+  margin-bottom: 4vh;
 }
 
 #r4iTemp {
