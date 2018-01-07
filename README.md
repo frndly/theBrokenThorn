@@ -7,12 +7,15 @@ The site itself is pretty simple, it's just three pages which I have included wi
 
 Keep in mind that these are for the "fancy" site, yours do not have to look like this and in fact I think it would be better if they didn't!  Do whatever you want, make it horrible if you feel like it hashtag yolo.  
 
+## Menu
 ![Menu](https://i.imgur.com/PBHY0dy.jpg)
 
+## About
 ![About](https://i.imgur.com/h9fQEe4.jpg)
 
+## Bulletin Board
 ![Bulletin Board](https://i.imgur.com/pbBTail.jpg)
 
-#### For reference, here is the landing page wireframe:
+## For reference, here is the landing page wireframe:
 
 ![Landing Page](https://i.imgur.com/ppSmRuB.jpg)
