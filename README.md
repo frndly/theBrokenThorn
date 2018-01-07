@@ -1,5 +1,4 @@
 # theBrokenThorn
-A practice website that I made for a D and D Inn that I randomly generated on donjon.  
 
 The premise is a modern restaurant website with some extras.  The landing page will have a button that says "Roll for Initiative."  If you roll a 1 you get a 404 error, if you roll 2-10 you get the comicSans site, if you roll 11-19 you get the fancy website, and if you roll a 20 you get Rick Rolled (or something else, it doesn't really matter).  
 
