@@ -7,12 +7,12 @@ The site itself is pretty simple, it's just three pages which I have included wi
 
 Keep in mind that these are for the "fancy" site, yours do not have to look like this and in fact I think it would be better if they didn't!  Do whatever you want, make it horrible if you feel like it hashtag yolo.  
 
-![Menu](frndly.github.io/theBrokenThorn/images/wireframe/3D59E021-6632-40B9-B870-2984DC9EAE3A.jpeg)
+![Menu](https://i.imgur.com/PBHY0dy.jpg)
 
-![About](frndly.github.io/theBrokenThorn/images/wireframe/5D33E1DB-96C3-4A2B-B150-BCA46A28B644.jpeg)
+![About](https://i.imgur.com/h9fQEe4.jpg)
 
-![Bulletin Board](frndly.github.io/theBrokenThorn/images/wireframe/1087EA7A-A310-489E-A568-A2A8EB02F8CA.jpeg)
+![Bulletin Board](https://i.imgur.com/pbBTail.jpg)
 
 #### For reference, here is the landing page wireframe:
 
-! [Landing Page] (frndly.github.io/theBrokenThorn/images/wireframe/D765030E-D3BD-40A7-9E87-33AB9514353F.jpeg)
+![Landing Page](https://i.imgur.com/ppSmRuB.jpg)
